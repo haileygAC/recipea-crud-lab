@@ -1,0 +1,11 @@
+{
+  "name": "recipea-crud-lab",
+  "version": "1.0.0",
+  "description": "Recipea Lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": " (HaileygAC)",
+  "license": "ISC"
+}
